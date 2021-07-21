@@ -477,7 +477,6 @@ section{
 
 .footer{
     background: var(--black);
-    margin-top: -5rem;
 }
 
 .footer .box-container{
@@ -618,5 +617,9 @@ section{
 
     .team .box-container .box{
         width: 100%;
+    }
+    
+    .footer{
+        margin-top: -5rem;
     }
 }
