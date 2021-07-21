@@ -608,7 +608,7 @@ section{
 @media(max-width: 450px)
 {
     html{
-        font-size: 55%;
+        font-size: 56%;
     }
 
     .heading{
@@ -620,6 +620,6 @@ section{
     }
     
     .footer{
-        margin-top: -5rem;
+        margin-top: -2rem;
     }
 }
