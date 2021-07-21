@@ -477,6 +477,7 @@ section{
 
 .footer{
     background: var(--black);
+    margin-top: -5rem;
 }
 
 .footer .box-container{
@@ -511,6 +512,7 @@ section{
 
 .footer a:hover{
     text-decoration: underline;
+    color: orange;
 }
 
 
@@ -538,7 +540,7 @@ section{
 @media(max-width: 1200px)
 {
     html{
-        font-size: 55%;
+        font-size: 58%;
     }
 }
 
@@ -607,7 +609,7 @@ section{
 @media(max-width: 450px)
 {
     html{
-        font-size: 50%;
+        font-size: 55%;
     }
 
     .heading{
